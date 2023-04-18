@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @sumit16sharma
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sumit16sharma/sumit16sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Sumit Sharma, a passionate and driven full-stack developer. Currently pursuing my B. Tech in Information Technology from Maharaja Surajmal Institute of Technology with a CGPA of 9.315. I have interned as a Full Stack Developer at Webknot Technologies and CrowdOverflow, successfully delivering multiple projects and achieving significant productivity and customer satisfaction improvements. I have expertise in various programming languages and technologies, including Java, Python, ReactJS, and NodeJS. I am also an active campus ambassador and have won accolades in various Olympiads and sports competitions.
